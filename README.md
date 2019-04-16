@@ -1,2 +1,2 @@
-# antonFet.Github.io
+# antonFet.github.io
 Welcome to myPage!
