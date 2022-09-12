@@ -17,9 +17,7 @@ img {
 }
 
 table {
-	margin: 0;
-	float: right;
-	text-align: center;
+	margin: auto;
 }
 
 table tr td:first-child {
