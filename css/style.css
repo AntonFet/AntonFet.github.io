@@ -18,6 +18,7 @@ img {
 
 table {
 	margin: auto;
+	float: none;
 }
 
 table tr td:first-child {
