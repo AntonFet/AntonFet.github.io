@@ -19,6 +19,7 @@ img {
 table {
 	margin: 0;
 	float: right;
+	vertical-align: middle;
 }
 
 table tr td:first-child {
